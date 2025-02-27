@@ -1,3 +1,5 @@
+upkie.blend filter=lfs diff=lfs merge=lfs -text
+upkie.stl filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
 *.stl filter=lfs diff=lfs merge=lfs -text
 *.FCStd filter=lfs diff=lfs merge=lfs -text
