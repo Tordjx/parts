@@ -33,6 +33,7 @@ This complete redesign of the robot was contributed by @EtienneAr and @Tordjx. T
 - Removed qdd100 horn
 - Removed ankle connector (merged into tibia)
 - Removed knee connector (merged into femur)
+- Removed sub-directory readmes (merged into the main readme)
 
 ## [1.1.0] - 2024-09-02
 
