@@ -1,4 +1,4 @@
-# Wheel Hub
+# Wheel hub
 
 ## Revisions
 
