@@ -7,16 +7,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+This complete redesign of the robot was contributed by @EtienneAr and @Tordjx. Thanks!
+
 ### Added
 
-- Add Blender assembly of the whole robot
-- Add STL assembly of the whole robot
-- Document ankle screw holes misalignment in the readme (thanks to @Wyzard2025)
+- Optional qdd100 part with a bearing to reduce play and "protect" motor from radial load
+- New plate to mount the Raspberry Pi inside the new torso case
+- New plate to mount the power dist board inside the new torso case
 
 ### Changed
 
-- Redesign the wheel hub (thanks to @Tordjx and @EtienneAr)
+- **Breaking:** The Raspberry Pi has been re-oriented
+- Added tabs within the case for cable management
+- Femur is now a single part
 - Move previous wheel hub to hex variant sub-directory
+- Redesign the wheel hub (thanks to @Tordjx and @EtienneAr)
+- Tibia is now a single part
+- Torso: merged 7 parts into a single *case*
+    - All the plates have been replaced with a one-part case
+    - Walls are now 1cm thick, allowing for printing with less "countour" and less "infill" while maintaining the same rigidity/robustness as before
+    - Hip qdd100's are now embeded within the main case, allowing for a 6cm reduction in width
+
+### Removed
+
+- Removed qdd100 horn
+- Removed ankle connector (merged into tibia)
+- Removed knee connector (merged into femur)
 
 ## [1.1.0] - 2024-09-02
 
