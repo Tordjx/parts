@@ -17,8 +17,9 @@ This complete redesign of the robot was contributed by @EtienneAr and @Tordjx. A
 
 ### Changed
 
-- **Breaking:** The Raspberry Pi has been re-oriented
+- **Breaking:** New IMU orientation: `diag([1, -1, -1])`
 - **Breaking:** Rewrite repository history to reduce clone size from 860 MB to 432 MB (see #23)
+- **Breaking:** The Raspberry Pi has been re-oriented
 - Added tabs within the case for cable management
 - Femur is now a single part
 - Move previous wheel hub to hex variant sub-directory
