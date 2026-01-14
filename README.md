@@ -1,10 +1,10 @@
 # Hardware for Upkie wheeled bipeds
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/c4875d4b-3a93-4938-8836-7221ded15141">
+<img align="right" width="200" src="https://github.com/user-attachments/assets/6c9b24ed-2439-414a-94e7-167b035e9f6f">
 
 This repository provides FreeCAD and STL files to 3D print the mechanical parts of [Upkie wheeled bipeds](https://github.com/upkie/upkie).
 
-## Getting started
+### Getting started
 
 This repository uses Git LFS to distribute large files, as the full revision history of CAD files would be memory-consuming. You will need to install Git LFS for your operating system. For instance, on a Debian-based Linux distribution:
 
@@ -22,8 +22,6 @@ Regular handle to grab the robot and move it around.
 
 * [STL file](add-ons/handle/handle.stl)
 * [Blender project](add-ons/handle/handle.blend)
-
-<img align="right" src="https://github.com/upkie/upkie_parts/assets/1189580/0c6855b4-e5e8-41a2-86e3-0561b63a771f" height="150">
 
 ## See also
 
