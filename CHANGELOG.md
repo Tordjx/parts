@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-01-14
+
 This complete redesign of the robot was contributed by @EtienneAr and @Tordjx. All additions and changes below come from them. Thanks!
 
 ### Added
@@ -109,7 +111,8 @@ This complete redesign of the robot was contributed by @EtienneAr and @Tordjx. A
 - System: Keyboard configuration
 - System: Wireless access point configuration
 
-[unreleased]: https://github.com/upkie/upkie_parts/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/upkie/upkie_parts/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/upkie/upkie_parts/compare/v1.1.0...v2.0.0
 [1.1.0]: https://github.com/upkie/upkie_parts/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/upkie/upkie_parts/compare/v0.1.0...v1.0.0
 [0.1.0]: https://github.com/upkie/upkie_parts/releases/tag/v0.1.0
