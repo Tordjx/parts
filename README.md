@@ -17,7 +17,7 @@ If you cloned this repository with Git LFS installed, all files will be in your 
 ## Legs
 
 - **Lower leg** ([FreeCAD](legs/lower_leg/lower_leg.FCStd) | [STL](legs/lower_leg/lower_leg.stl)): Lower segment connecting to the wheel hub.
-- **qdd100 support** ([FreeCAD](legs/hip_support/hip_support.FCStd) | [STL](legs/hip_support/hip_support.stl)): Optional 3D printed part with a bearing to reduce play and "protect" qdd100 actuators from radial load.
+- **Knee support** ([FreeCAD](legs/knee_support/knee_support.FCStd) | [STL](legs/knee_support/knee_support.stl)): Optional 3D printed part with a bearing to reduce play and "protect" knee actuators from radial load.
     - Bearing reference: 40x52x7mm [Amazon](https://amzn.eu/d/3NPo64S).
 - **Upper leg** ([FreeCAD](legs/upper_leg/upper_leg.FCStd) | [STL](legs/upper_leg/upper_leg.stl)): Upper segment of the leg assembly.
 - **Wheel hub** ([FreeCAD](legs/wheel_hub/wheel_hub.FCStd) | [STL](legs/wheel_hub/wheel_hub.stl)): Integrated wheel and hub assembly for mounting tires.
